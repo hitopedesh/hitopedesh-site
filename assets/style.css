@@ -184,3 +184,11 @@ h2.big{font-size:clamp(44px,5.6vw,72px)}
 }
 .note-line{font-size:15px;color:var(--muted);margin-top:22px}
 .note-line a{color:var(--ink)}
+
+/* Press clipping tile */
+.gallery .frame.press{display:flex;flex-direction:column;justify-content:space-between;align-items:flex-start;padding:32px 28px;text-decoration:none;background:var(--ink);color:var(--paper);transition:background .2s}
+.gallery .frame.press:hover{background:#2c312c}
+.press-src{font-family:var(--sans);font-weight:600;font-size:13px;letter-spacing:.24em;color:#cdbf9f;border-bottom:1px solid #4a4e46;padding-bottom:12px;width:100%}
+.press-head{font-family:var(--serif);font-size:clamp(24px,2.3vw,30px);line-height:1.15;margin:20px 0 14px}
+.press-dek{font-family:var(--serif);font-style:italic;font-size:18px;line-height:1.4;color:#c9cbc0}
+.press-go{font-size:14px;border-bottom:1px solid #cdbf9f;padding-bottom:3px;margin-top:20px}
