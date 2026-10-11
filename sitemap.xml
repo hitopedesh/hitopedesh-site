@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://hitopedesh.com/</loc>
     <lastmod>2026-10-11</lastmod>
@@ -12,5 +12,13 @@
     <image:image><image:loc>https://hitopedesh.com/assets/maximum-management-book-cover-hitesh-ahuja.webp</image:loc></image:image>
     <image:image><image:loc>https://hitopedesh.com/assets/maximum-management-frankfurt-book-fair-2026.webp</image:loc></image:image>
     <image:image><image:loc>https://hitopedesh.com/assets/hitesh-ahuja-maximum-management-frankfurt-ani.webp</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://hitopedesh.com/assets/video/maximum-management-teaser-poster.jpg</video:thumbnail_loc>
+      <video:title>Maxim(um) Management by Hitesh Ahuja: first teaser</video:title>
+      <video:description>It's a bird! No, it's a book of stories. It's a plane! No, it's a business book. It's Superman! No. It's Maxim(um) Management.</video:description>
+      <video:content_loc>https://hitopedesh.com/assets/video/maximum-management-teaser-4x5.mp4</video:content_loc>
+      <video:duration>21</video:duration>
+      <video:publication_date>2026-10-11</video:publication_date>
+    </video:video>
   </url>
 </urlset>
