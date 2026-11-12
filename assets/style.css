@@ -204,3 +204,7 @@ h2.big{font-size:clamp(44px,5.6vw,72px)}
 .tagline{font-family:var(--serif);font-style:italic;font-size:26px;color:var(--accent);margin:4px 0 26px}
 .teaser-video video{width:100%;height:auto;display:block;background:var(--ink);box-shadow:0 24px 48px #2a2e2826}
 @media (max-width:860px){.teaser{grid-template-columns:1fr;gap:36px}.teaser-video{max-width:460px}}
+.press-feature.alt{grid-template-columns:1.25fr 1fr}
+.press-feature.alt>div{padding:40px 44px}
+.press-feature.alt .press-head{font-size:clamp(26px,2.6vw,36px)}
+@media (max-width:860px){.press-feature.alt{grid-template-columns:1fr}.press-feature.alt img{order:-1}}
