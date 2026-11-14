@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://hitopedesh.com/maximum-management/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <image:image><image:loc>https://hitopedesh.com/assets/maximum-management-book-cover-hitesh-ahuja.webp</image:loc></image:image>
     <image:image><image:loc>https://hitopedesh.com/assets/maximum-management-frankfurt-book-fair-2026.webp</image:loc></image:image>
     <image:image><image:loc>https://hitopedesh.com/assets/hitesh-ahuja-maximum-management-frankfurt-ani.webp</image:loc></image:image>
@@ -21,5 +21,11 @@
       <video:duration>21</video:duration>
       <video:publication_date>2026-10-11</video:publication_date>
     </video:video>
+  </url>
+  <url>
+    <loc>https://hitopedesh.com/maximum-management/launch/</loc>
+    <lastmod>2026-11-15</lastmod>
+    <image:image><image:loc>https://hitopedesh.com/assets/maximum-management-book-launch-invitation.webp</image:loc></image:image>
+    <image:image><image:loc>https://hitopedesh.com/assets/og-book-launch.jpg</image:loc></image:image>
   </url>
 </urlset>
