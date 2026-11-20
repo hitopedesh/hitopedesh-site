@@ -225,3 +225,4 @@ h2.big{font-size:clamp(44px,5.6vw,72px)}
 .launch-btn:hover{background:#fff;color:#2c0d16}
 @media (max-width:860px){.launch-grid{grid-template-columns:1fr;gap:44px}.launch-card{max-width:340px}}
 @media (max-width:600px){.launch-facts div{grid-template-columns:1fr;gap:4px}}
+.launch-by{font-size:15px;color:#e3d2bd;font-style:italic}
